@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ty-livingston
 - 👀 I’m interested in coding and algorithmic trading
-- 🌱 I’m currently learning python, SQL, R, and html
+- 🌱 I’m currently learning python, SQL, R, and Soidity
 - 💞️ I’m looking to collaborate on data analysis and webscraping
 - 📫 How to reach me on linkedin
 
